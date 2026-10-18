@@ -1,0 +1,7 @@
+/target
+/dist
+**/*.partial
+**/*.sqlite-journal
+**/*.sqlite-wal
+.DS_Store
+
